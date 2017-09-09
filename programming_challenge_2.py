@@ -24,7 +24,7 @@
 
 
 # 5
-# write a function called "print_list" that takes in a list as a parameter, prints all of the elements in a list, and prints the length of the list 
+# write a function called "print_list" that takes in a list of numbers as a parameter, adds 5 to all the numbers, then prints all of the elements in a list, and prints the length of the list 
 
 
 
